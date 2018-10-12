@@ -3,6 +3,10 @@
   --secondary-color: #ccc;
 }
 
+html {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -13,4 +17,5 @@ body {
 
 img {
   width: 100%;
+  height: auto;
 }
